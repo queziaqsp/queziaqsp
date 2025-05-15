@@ -10,5 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img loading="lazy" 
-src="<i class="devicon-apachespark-original"></i>" 
-width="40" height="40"/
+src="<i class="devicon-apachespark-original"></i>"width="40" height="40"/
