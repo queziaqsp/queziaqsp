@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Quezia Santos✨
-- 🎵 I’m interested in music, moovies and nature;
-- 💻 I’m currently learning programming;
-- 📧 How to reach me queziaqsp@gmail.com...
+
 
 
 <!---
